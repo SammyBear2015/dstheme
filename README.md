@@ -1,2 +1,0 @@
-# dstheme
-For Better Discord
